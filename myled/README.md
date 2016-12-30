@@ -18,3 +18,6 @@ $ ./led_flash.bash 10 0.5   #ledを0.5秒ずつ10回点滅
 $ sudo rmmod myled          #デバイスドライバ解除
 $ make clean                #ディレクトリをきれいに
 ```
+
+## 動画URL
+https://youtu.be/ArOVkOaaWcs
