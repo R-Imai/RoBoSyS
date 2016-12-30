@@ -1,4 +1,4 @@
-obj-m = myled.o
+obj-m:=myled.o
 
 myled.ko: myled.c
 	make -C /usr/src/linux M=`pwd` V=1 modules
